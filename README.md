@@ -740,7 +740,7 @@ def login():
         messagebox.showerror("Error", "Password field is required")
     elif user != "u1" or "u2":
         messagebox.showerror("Error", "Wrong user")
-    elif code != "password1" or "password2" or "admin":
+    elif code != "user1" or "user2" or "admin":
         messagebox.showerror("Error", "Wrong Password")
     elif user == "" and code == "":
         messagebox.showerror()
