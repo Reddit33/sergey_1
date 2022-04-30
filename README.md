@@ -1,4 +1,4 @@
-# sergey_1
+# sergey_1 RI1-01 Яковлев Сергей
 print ("hello")
 from tkinter import *
 from tkinter import messagebox
